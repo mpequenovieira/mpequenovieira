@@ -3,11 +3,11 @@
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=mpequenovieira&label=Profile%20views&color=0e75b6&style=flat" alt = "mpequenovieira" /> </p>
 
-- 🌱 Estudante de Sistemas de Informação <b>5º semestre</b>
+- 🌱 Estudante de Sistemas de Informação, <b>5º semestre</b>
 
-- 💬 Tenho interesse em <b> Java, Spring Boot, Hibernate, Angular, Desenvolvimento Full-Stack </b>
+- 💬 Tenho interesse em: <b> Java, Spring Boot, Hibernate, Angular, Desenvolvimento Full-Stack </b>
 
-- 📫 Me encontre no e-mail <b>mpequenovieira@gmail.com</b>
+- 📫 Fale comigo no e-mail <b> mpequenovieira@gmail.com </b>
 
 <h3 align = "left"> Conecte-se comigo: </h3>
 <p align = "left">
