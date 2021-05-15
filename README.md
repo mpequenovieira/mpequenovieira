@@ -13,6 +13,8 @@
 
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=mpequenovieira&show_icons=true&theme=dark&locale=en" alt = " mpequenovieira "/> </p>
 
+<p> <img align =" center "src =" https://github-readme-streak-stats.herokuapp.com/?user=mpequenovieira&theme=dark "alt =" mpequenovieira "/ > </p>
+
 <h3 align = "left"> Conecte-se comigo: </h3>
 <p align = "left">
 <a href="https://linkedin.com/in/mpequenovieira" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator / neutral-icons / src / images / icons / Social / linked-in-alt.svg "alt =" mpequenovieira "height =" 30 "width =" 40 "/> </a>
