@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Matheus!</h1>
-<h3 align="center">A graduate student in Information Systems and passionate about PROGRAMMING</h3>
+<h3 align="center">A information systems student and passionate about PROGRAMMING</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mpequenovieira&label=Visitas%20no%20Perfil&color=113979&style=flat" alt="mpequenovieira" /> </p>
 
