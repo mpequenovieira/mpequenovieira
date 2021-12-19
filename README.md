@@ -5,7 +5,7 @@
 
 <h3 align="left"> About me 👨‍💻:</h3>
 
-- 🌱 Information Systems Student, <b>6º semester</b>
+- 🌱 Information Systems Student, <b>7º semester</b>
 
 - 💬 I am interested in <b>Java, Spring Boot, Hibernate, Angular, Full-Stack Development</b>
 
